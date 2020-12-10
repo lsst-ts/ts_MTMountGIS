@@ -18,7 +18,7 @@
 #
 # You should have received a copy of the GNU General Public License
 
-__all__ = ["MTMountGISCsc"]
+__all__ = ["gisCsc"]
 
 
 
@@ -32,7 +32,7 @@ from lsst.ts import salobj
 
 _LOCAL_HOST = "127.0.0.1"
 
-class MTMountGISCsc(salobj.ConfigurableCsc):
+class gisCsc(salobj.ConfigurableCsc):
 
 	valid_simulation_modes = (0, 1)
 

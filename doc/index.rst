@@ -1,5 +1,5 @@
 ###################################
-ts_MTMountGIS documentation preview
+ts_gis documentation preview
 ###################################
 
 .. This page is for local development only. It isn't published to pipelines.lsst.io.
@@ -9,4 +9,4 @@ ts_MTMountGIS documentation preview
 .. toctree::
    :maxdepth: 1
 
-   lsst.ts.MTMountGIS/index
+   lsst.ts.gis/index

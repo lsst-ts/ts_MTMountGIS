@@ -1,4 +1,4 @@
-# This file is part of ts_MTMountGIS.
+# This file is part of ts_gis.
 #
 # Developed for the LSST Data Management System.
 # This product includes software developed by the LSST Project

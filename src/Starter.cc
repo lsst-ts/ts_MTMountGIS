@@ -1,6 +1,6 @@
 // -*- LSST-C++ -*-
 /*
- * This file is part of ts_MTMountGIS.
+ * This file is part of ts_gis.
  *
  * Developed for the LSST Data Management System.
  * This product includes software developed by the LSST Project
@@ -22,6 +22,6 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-namespace lsst { ts { MTMountGIS {
+namespace lsst { ts { gis {
 
-}}} // lsst::ts::MTMountGIS
+}}} // lsst::ts::gis
