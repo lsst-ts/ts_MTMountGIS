@@ -1,6 +1,6 @@
 // -*- LSST-C++ -*-
 /*
- * This file is part of ts_MTMountGIS.
+ * This file is part of ts_gis.
  *
  * Developed for the LSST Data Management System.
  * This product includes software developed by the LSST Project
@@ -23,9 +23,9 @@
  */
 
 /** \file
-  * \brief Include files for lsst::ts::MTMountGIS.
+  * \brief Include files for lsst::ts::gis.
   */
-#ifndef LSST_TS_MTMOUNTGIS_H
-#define LSST_TS_MTMOUNTGIS_H
+#ifndef LSST_TS_gis_H
+#define LSST_TS_gis_H
 
 #endif
